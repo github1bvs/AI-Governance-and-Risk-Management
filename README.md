@@ -77,7 +77,3 @@ The AI Governance and Risk Management project aims to identify, evaluate, and ad
 - **Project Lead**: Venkata Swamy Bathala
 - **AI Governance Specialist**: Venkata Swamy Bathala
 - **AI Risk Assessment Expert**: Venkata Swamy Bathala
-
-## License
-
-This project is licensed under the MIT License.
